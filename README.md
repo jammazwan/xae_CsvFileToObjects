@@ -28,8 +28,6 @@ This project is a code demo designed to respect your time as a developer, and re
 
 ### Run Instructions:
 
-_from the [metadata_](https://github.com/jammazwan/jammazwan.maker/blob/master/src/main/resources/xyzprojects.json):
-
 _run XaeTest which confirms that first record has expected field contents._
 
 ### Other notes:
